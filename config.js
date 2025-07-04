@@ -4,11 +4,11 @@ import { dirname } from 'path';
 global.__filename = fileURLToPath(import.meta.url);
 global.__dirname = dirname(__filename);
 
-global.host = "https://api.xyzen.tech"
+global.host = "https://ryuu.xydlanlux.biz.id"
 
-global.creator = "AmmarBN"
+global.creator = "RyuuIzumi"
 
-global.key = 'yukismall'
+global.key = 'ryuuizumi'
 
 global.limit = {
     free: 15,
